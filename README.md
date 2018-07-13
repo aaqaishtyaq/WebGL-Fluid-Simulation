@@ -1,6 +1,6 @@
 # WebGL Fluid Simulation
 
-[Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+[Play here](https://aaqaishtyaq.github.io/WebGL-Fluid-Simulation/)
 
 <img src="/screenshot.png?raw=true" width="800">
 
@@ -14,4 +14,4 @@ https://github.com/haxiomic/GPU-Fluid-Experiments
 
 ## License
 
-The code is available under the [MIT license](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/blob/master/LICENSE)
+The code is available under the [MIT license](https://github.com/aaqaishtyaq/WebGL-Fluid-Simulation/blob/master/LICENSE)
