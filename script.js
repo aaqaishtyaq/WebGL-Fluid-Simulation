@@ -130,14 +130,14 @@ function startGUI () {
         }
     }, 'fun').name('Random splats');
 
-    let github = gui.add({ fun : () => { window.open('https://github.com/PavelDoGreat/WebGL-Fluid-Simulation'); } }, 'fun').name('Github');
+    let github = gui.add({ fun : () => { window.open('https://github.com/aaqaishtyaq/WebGL-Fluid-Simulation'); } }, 'fun').name('Github');
     github.__li.className = 'cr function bigFont';
     github.__li.style.borderLeft = '3px solid #8C8C8C';
     let githubIcon = document.createElement('span');
     github.domElement.parentElement.appendChild(githubIcon);
     githubIcon.className = 'icon github';
 
-    let twitter = gui.add({ fun : () => { window.open('https://twitter.com/PavelDoGreat'); } }, 'fun').name('Twitter');
+    let twitter = gui.add({ fun : () => { window.open('https://twitter.com/aaqaishtyaq'); } }, 'fun').name('Twitter');
     twitter.__li.className = 'cr function bigFont';
     twitter.__li.style.borderLeft = '3px solid #8C8C8C';
     let twitterIcon = document.createElement('span');
